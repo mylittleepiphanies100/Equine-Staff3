@@ -1053,7 +1053,7 @@ a{
   box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
   transform: translate(0, 0);
   transition: .3s;
-  margin: 70px;
+  margin: 25px;
 }
 .single-img:hover{
   transform: translate(0, -9px);
@@ -1093,7 +1093,7 @@ a{
   background-position: center center;
 }
 .img-07{
-  background-image: url(https://live.staticflickr.com/65535/52579924505_da88599e08_h.jpg);
+  background-image: url(https://live.staticflickr.com/65535/52586898768_ba11348e22_z.jpg);
   background-size: cover;
   background-position: center center;
 }
