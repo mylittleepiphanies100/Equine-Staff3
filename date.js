@@ -6,4 +6,4 @@ let greeting =
     : timeNow >= 12 && timeNow < 18
     ? "Good Afternoon"
     : "Good evening";
-container.innerHTML = `<h3>${greeting}</h3>`;
+container.innerHTML = `<h4>${greeting}</h4>`;
