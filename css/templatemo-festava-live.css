@@ -385,7 +385,7 @@ strong {
 .navbar-expand-lg .navbar-nav .nav-link {
   border-radius: var(--border-radius-large);
   margin: 10px;
-  padding: 10px 20px;
+  padding: 10px 5px;
 }
 
 .navbar-nav .nav-link {
@@ -548,7 +548,7 @@ strong {
 
 
 /*---------------------------------------
-  TICKET               
+  Contact              
 -----------------------------------------*/
 .ticket-section {
   background-image: url('../images/nicholas-green-unsplash-blur.jpg');
@@ -1098,11 +1098,6 @@ a{
   background-position: center center;
 }
 
-.img-08{
-  background-image: url(https://live.staticflickr.com/65535/52586857454_d94e6b3766_z.jpg);
-  background-size: cover;
-  background-position: center center;
-}
 
 
 
