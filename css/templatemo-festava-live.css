@@ -1168,3 +1168,8 @@ a{
   word-spacing: 0.4em;
   font-style: var(--font-weight-bold)
 }
+
+
+.viewmore{
+  position: relative;
+}
