@@ -213,8 +213,8 @@ strong {
   SECTION               
 -----------------------------------------*/
 .section-padding {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .section-bg {
@@ -944,10 +944,7 @@ strong {
     font-size: 18px;
   }
 
-  .section-padding {
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
+ 
   
   .navbar {
     background-color: var(--dark-color);
